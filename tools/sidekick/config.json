@@ -2,5 +2,5 @@
   "project": "Rematrícula Antecipada | Anhanguera",
   "editUrlLabel": "AEM Editor",
   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-  "host": "https://rematricula.anhanguera.com"
+  "host": "rematricula.anhanguera.com"
 }
